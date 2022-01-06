@@ -1,1 +1,1 @@
-New To-do App wit Ionic
+New To-do App with Ionic
